@@ -1,0 +1,25 @@
+# Core ML / DL
+tensorflow==2.11.0
+keras==2.11.0
+
+# Computer Vision
+opencv-python==4.7.0.72
+Pillow==9.4.0
+
+# Data Science
+numpy==1.23.5
+pandas==1.5.3
+scipy==1.10.1
+scikit-learn==1.2.2
+matplotlib==3.6.3
+seaborn==0.12.2
+
+# GAN metrics (FID / IS)
+torch==2.2.0
+torchvision==0.17.0
+torch-fidelity==0.3.0
+
+# Utilities
+tqdm==4.65.0
+jupyterlab==3.6.1
+notebook==6.5.4
